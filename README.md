@@ -1,7 +1,7 @@
 # Hi there, I'm Salar Nouri 👋
 
 <div align="center">
-  <img src="https://github.com/sa-nouri/sa-nouri/blob/main/profile.jpg" alt="Salar Nouri" width="200" style="border-radius: 50%;"/>
+<!--   <img src="https://github.com/sa-nouri/sa-nouri/blob/main/profile.jpg" alt="Salar Nouri" width="200" style="border-radius: 50%;"/> -->
   
   <h3>Research Scientist & Machine Learning Engineer</h3>
   <p>Specializing in AI</p>
