@@ -4,12 +4,12 @@
   <img src="https://github.com/sa-nouri/sa-nouri/blob/main/profile.jpg" alt="Salar Nouri" width="200" style="border-radius: 50%;"/>
   
   <h3>Research Scientist & Machine Learning Engineer</h3>
-  <p>Specializing in Computational Neuroscience & AI</p>
+  <p>Specializing in AI</p>
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sa-nouri)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salar-nouri/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salr.nouri@gmail.com)
-  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8846-9318)
+  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=s-7sR8MAAAAJ&hl=en&authuser=1)
 </div>
 
 <div align="center">
@@ -28,6 +28,7 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 
 
 ### 🤝 Looking For
+
 - Research collaborations in machine learning and computational neuroscience
 - Industry opportunities in AI/ML engineering and data science
 - Open source contributions and community engagement
@@ -36,16 +37,22 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 ## 🚀 Featured Repositories
 
 ### Published Works
+
 | Publication Title | Code Repository | Venue / Link |
 | ---------------- | --------------- | ------------ |
 | **Microsaccade Selectivity for Object Decoding** | [ms-selectivity-feature](https://github.com/sa-nouri/ms-selectivity-feature) - Implementation of microsaccade selectivity analysis for object decoding | [iScience (2024)](https://doi.org/10.1016/j.isci.2024.111584) |
+
 | **EEG Phase Amplitude Coupling for Motor Vigor** | [pacnet-neuro-vigor](https://github.com/sa-nouri/pacnet-neuro-vigor) - Phase Amplitude Coupling analysis for motor vigor estimation | [medRxiv (2024)](https://doi.org/10.1101/2024.02.20.24303077) |
 
+| **TranCIT: Transient Causal Interaction Toolbox** | [trancit](https://github.com/CMC-lab/TranCIT) - Causal analysis in multivariate time series data | [arXiv (2025)](https://arxiv.org/abs/2509.00602) |
+
 ### 🔬 Research Projects
+
 - [Direction-of-Arrival](https://github.com/sa-nouri/Direction-of-Arrival) - MATLAB implementations for direction of arrival estimation
 - [Telecommunication-Projects](https://github.com/sa-nouri/Telecommunication-Projects) - Collection of telecommunication research projects including agent prediction, authentication, digital communication, and resource allocation
 
 ### 🎓 Course Projects
+
 - [Advanced-Deep-Learning](https://github.com/sa-nouri/Advanced-Deep-Learning) - Comprehensive implementations of advanced deep learning concepts including transformers, GANs, and self-supervised learning
 - [Pattern-Recognition](https://github.com/sa-nouri/Pattern-Recognition) - Implementations of classical and modern pattern recognition algorithms including clustering, classification and dimensionality reduction
 - [Statistical-Inference](https://github.com/sa-nouri/Statistical-Inference) - Projects covering Bayesian inference, hypothesis testing, maximum likelihood estimation and probabilistic modeling
@@ -69,6 +76,7 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 ## 💼 Professional Experience
 
 ### Data Scientist & Machine Learning Engineer
+
 - Architect and deploy enterprise-scale MLOps pipelines for distributed data processing
 - Develop production-ready machine learning services with high availability and fault tolerance
 - Lead comprehensive statistical analysis initiatives and experimental design
@@ -82,6 +90,7 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 ## 🛠️ Technical Skills
 
 ### Programming Languages
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
@@ -93,6 +102,7 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 </div>
 
 ### ML & Data Science
+
 <div align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -105,6 +115,7 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 </div>
 
 ### MLOps
+
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
