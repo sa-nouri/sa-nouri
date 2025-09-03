@@ -41,9 +41,7 @@ I hold both my bachelor's and master's degrees in Electrical Engineering from th
 | Publication Title | Code Repository | Venue / Link |
 | ---------------- | --------------- | ------------ |
 | **Microsaccade Selectivity for Object Decoding** | [ms-selectivity-feature](https://github.com/sa-nouri/ms-selectivity-feature) - Implementation of microsaccade selectivity analysis for object decoding | [iScience (2024)](https://doi.org/10.1016/j.isci.2024.111584) |
-
 | **EEG Phase Amplitude Coupling for Motor Vigor** | [pacnet-neuro-vigor](https://github.com/sa-nouri/pacnet-neuro-vigor) - Phase Amplitude Coupling analysis for motor vigor estimation | [medRxiv (2024)](https://doi.org/10.1101/2024.02.20.24303077) |
-
 | **TranCIT: Transient Causal Interaction Toolbox** | [trancit](https://github.com/CMC-lab/TranCIT) - Causal analysis in multivariate time series data | [arXiv (2025)](https://arxiv.org/abs/2509.00602) |
 
 ### 🔬 Research Projects
