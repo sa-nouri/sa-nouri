@@ -12,9 +12,9 @@
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=s-7sR8MAAAAJ&hl=en&authuser=1)
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sa-nouri&theme=tokyonight&row=1&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ## 👨‍💻 About Me
 
